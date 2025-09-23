@@ -1,5 +1,5 @@
 ### Hi, I’m Emanuel! <br/>
-### Sales Agent turned Data Analyst | Web developer <br/>
+### Sales Agent turned Data Analyst | Web developer and Data Analyst <br/>
 Data Analyst | Transforming Data into Actionable Insights 📊
 • Turning raw data into valuable insights to drive better business decisions.
 • Passionate about data exploration, predictive models, and visual storytelling.
