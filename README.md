@@ -7,7 +7,7 @@
 
 ## Sales Agent turned Data Analyst | Web developer and Data Analyst <br/>
 #### Data Analyst | Transforming Data into Actionable Insights 📊
-     • Bioconstructor and horticulturist 
+     - Bioconstructor and horticulturist 
 #### •  Turning raw data into valuable insights to drive better business decisions.
     - Activist against cults and coercive groups
 #### •  Passionate about data exploration, predictive models, and visual storytelling.
