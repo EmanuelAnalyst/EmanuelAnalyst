@@ -7,9 +7,13 @@
 
 ## Sales Agent turned Data Analyst | Web developer and Data Analyst <br/>
 #### Data Analyst | Transforming Data into Actionable Insights 📊
+     • Bioconstructor and horticulturist 
 #### •  Turning raw data into valuable insights to drive better business decisions.
+    - Activist against cults and coercive groups
 #### •  Passionate about data exploration, predictive models, and visual storytelling.
+    - Muay Thai practitioner 
 #### • Background in Data Analyst, Sales sharpens my analytical and problem-solving skills.
+    - Chiropractic student
 #### •  Fluent in Spanish and Enlish 🌍
 #### • Always open to new data challenges and collaborative projects
 - 👾 Additionally, I create content about bioconstruction on my social media, so feel free to check out my you tube chanel!
