@@ -5,17 +5,7 @@
 ![Art Animation GIF by Max Litvinov](https://github.com/user-attachments/assets/1f310ba8-fb3c-4946-9091-712ceb3d2dd0)
 
 
-## Sales Agent turned Data Analyst | Web developer and Data Analyst <br/>
-#### Data Analyst | Transforming Data into Actionable Insights 📊
-     - Bioconstructor and horticulturist 
-#### •  Turning raw data into valuable insights to drive better business decisions.
-    - Activist against cults and coercive groups
-#### •  Passionate about data exploration, predictive models, and visual storytelling.
-    - Muay Thai practitioner 
-#### • Background in Data Analyst, Sales sharpens my analytical and problem-solving skills.
-    - Chiropractic student
-#### •  Fluent in Spanish and Enlish 🌍
-#### • Always open to new data challenges and collaborative projects
+I'm a data analyst with a multidisciplinary background: I studied data analysis, I'm a natural builder, and currently a chiropractic student. I'm passionate about combining technology with wellness and sustainability.
 - 👾 Additionally, I create content about bioconstruction on my social media, so feel free to check out my you tube chanel!
 <a href="https://www.youtube.com/@Just_another-i8k
 ">
