@@ -4,8 +4,27 @@
 
 ![Art Animation GIF by Max Litvinov](https://github.com/user-attachments/assets/1f310ba8-fb3c-4946-9091-712ceb3d2dd0)
 
+I’m a data analyst with a passion for wellness, sustainability, and continuous learning. I have a unique multidisciplinary background — I studied data analysis, I’m a natural builder, and currently a chiropractic student. I love working on projects that combine technology with health and the environment in meaningful ways.
 
-I'm a data analyst with a multidisciplinary background: I studied data analysis, I'm a natural builder, and currently a chiropractic student. I'm passionate about combining technology with wellness and sustainability.
+💻 I work with:
+
+Languages & Tools: Python, SQL, HTML, Excel (Pivot Tables), Jupyter Notebooks
+
+Fields of interest: Data science, integrative health, natural construction
+
+🌱 I’m currently learning more about:
+Data visualization, data storytelling, and how tech can support sustainable living and human well-being.
+
+👯 I’m looking to collaborate on meaningful projects involving data, health, or sustainability.
+✔ Ask me anything — I'm happy to connect and help where I can!
+
+Outside of tech:
+🛠 I love building with natural materials,
+🧠 exploring the human body and mind, and
+📚 reading about science, health, and nature.
+
+📫 Feel free to reach out: [tu_email@email.com
+]
 - 👾 Additionally, I create content about bioconstruction on my social media, so feel free to check out my you tube chanel!
 <a href="https://www.youtube.com/@Just_another-i8k
 ">
