@@ -23,14 +23,13 @@ Outside of tech:
 🧠 exploring the human body and mind, and
 📚 reading about science, health, and nature.
 
-📫 Feel free to reach out: [tu_email@email.com
+📫 Feel free to reach out: emanuelzamudio03@gmail.com
 ]
 - 👾 Additionally, I create content about bioconstruction on my social media, so feel free to check out my you tube chanel!
 <a href="https://www.youtube.com/@Just_another-i8k
 ">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
-  •  📫 Reach out to me at: <a href="emanuelzamudio03@gmail.com">emanuelzamudio03@gmail.com</a>
 
 
 🪲 Connect: [LinkedIn](www.linkedin.com/in/
